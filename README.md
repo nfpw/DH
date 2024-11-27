@@ -4,5 +4,6 @@
 | -------- | -------- 
 | Init | 🟢
 | Ui | 🟢 
+| Universal | 🟢 
 | Games | 🔴
-| Loader | 🔴  
+| Loader | 🟢  
