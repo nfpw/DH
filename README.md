@@ -1,4 +1,4 @@
-## Disabled Hub Current Version
+## ShizoWare Current Version
 
 | Script | Status 
 | -------- | -------- 
