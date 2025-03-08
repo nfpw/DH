@@ -1,19 +1,9 @@
-## Rat Current Version
+## Rat v1
 
-| Version | v1 Beta 
+| Discontinued |
 | -------- | -------- 
 | Init | 🟢
 | Ui | 🟢 
 | Universal | 🟢 
 | Games | 🟢 
 | Loader | 🟢  
-
-## The Recode
-
-| Version | v1.1
-| -------- | -------- 
-| Init | 🟢
-| Ui | 🟢 
-| Universal | 🔴
-| Games | 🔴
-| Loader | 🔴  
